@@ -1,46 +1,67 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0099b4&height=120&section=header"/>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<h1><b>Fala aí, eu sou </b><a href="https://github.com/ThomasRodri">ThomasRodri</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0099b4&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Thomas+Rodrigues;Sou+estudante+de+ADS+na+FIAP;Seja+Bem-Vindo!)](https://git.io/typing-svg) 
+<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***Sobre mim***
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ThomasRodri&show_icons=true&count_private=true&hide_border=true&title_color=0099b4&icon_color=0099b4&text_color=c9d1d9&bg_color=0d1117" alt="Thomas Rodrigues github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasRodri&layout=compact&hide_border=true&title_color=0099b4&text_color=0099b4&bg_color=0d1117" />
-</div>
+<img align="right" width=200px alt="Unicorn" src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif"/>
 
+Sou um estudante de **Análise e Desenvolvimento de Sistemas** na FIAP, atualmente no meio do curso. Estou expandindo meus conhecimentos tanto no back-end quanto no front-end. Tenho experiência como desenvolvedor web para o setor de restaurantes e meu objetivo é fortalecer minhas habilidades de desenvolvimento e explorar novas tecnologias. Amo aprender e construir algo novo, criativo e divertido.
+- 📚 Atualmente estudando ...
+  - *Java com Spring*
+  - *React Native*
+- 🚀 Estou animado para participar de novos projetos.
+- ✔ Fique à vontade para me perguntar qualquer coisa! Gosto de ajudar outras pessoas.
+- Fora da tecnologia, gosto de socializar com amigos, 🎮 jogar videogames, 🎵 ouvir música e também amo 🎸 tocar instrumentos musicais.
+- 📫 Entre em contato comigo: <a href="mailto:thomasRodri@gmail.com">thomasRodri@gmail.com</a>
+<br>
 
-<div align="center">  
-  
-### Principais Conhecimentos:
-
-![Java](https://img.shields.io/badge/-Java-222222?style=for-the-badge&logo=java&labelColor=222222)&nbsp;
-![Python](https://img.shields.io/badge/-PYTHON-222222?style=for-the-badge&logo=python&logoColor=purple&labelColor=222222)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-222222?style=for-the-badge&logo=mysql&labelColor=222222)&nbsp;
-
-  
-  ### Estudando no Momento:
-  
-  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-  ![Hibernate](https://img.shields.io/badge/Hibernate-%235C4EE5.svg?style=for-the-badge&logo=hibernate&logoColor=white)
-  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-</div>
+<!-- Troféus do Perfil -->
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ThomasRodri}/count.svg" /></p> 
-<br></div>
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=ThomasRodri&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROFÉUS" width="84%" />
+    </a>
+</div>     
 
+<!-- Links Sociais -->
+<div align="center">
+  <a href="mailto:thomasRodri@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
+  <a href="https://www.linkedin.com/in/thomasRodri/"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
+  <a href="https://www.instagram.com/thomasRodri"><img src="https://img.shields.io/badge/Instagram-%2312100E.svg?style=for-the-badge&logo=instagram&logoColor=white&color=black" /></a>
+  <a href="https://x.com/thomasRodri"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=black" /></a>
+  <a href="https://www.kaggle.com/thomasRodri"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&color=black" /></a>
+  <a href="https://thomasRodri.github.io/portfolio/"><img src="https://img.shields.io/badge/Website-%23.svg?&style=for-the-badge&logo=www&logoColor=white&color=black" /></a>
+</div>
 
-<div align="center">  
-<a href="mailto:ThomasRodri@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+<br>
 
-<a href="https://linkedin.com/in/ThomasRodri" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+<!-- Estatísticas do GitHub -->
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Estatísticas do GitHub***
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+<p align="center">
+<table align="center">
+<tr>
+<td width="50%" align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=ThomasRodri&theme=nightowl&show_icons=true&count_private=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThomasRodri&theme=nightowl&hide_border=false" alt="ThomasRodri streak" />
+</td>
+<td width="50%" align="center">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ThomasRodri&theme=nightowl&hide_border=false&langs_count=10"/>
+</td>
+</tr>
+</table>
+</p>
+<br>
 
-</div> 
- 
+<!-- Contador de Visitantes -->
+<br>
+<div align="center" style="display: flex; align-items: center; justify-content: center;">
+    <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
+    <img alt="contador de visitantes" src="https://profile-counter.glitch.me/ThomasRodri/count.svg">
+    <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
+</div>
+<br>
+<br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0099b4&height=120&section=footer"/>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
