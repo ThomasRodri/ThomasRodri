@@ -12,7 +12,6 @@ Sou um estudante de **Análise e Desenvolvimento de Sistemas** na FIAP, atualmen
   - *React Native*
 - 🚀 Estou animado para participar de novos projetos.
 - ✔ Fique à vontade para me perguntar qualquer coisa! Gosto de ajudar outras pessoas.
-- Fora da tecnologia, gosto de socializar com amigos, 🎮 jogar videogames, 🎵 ouvir música e também amo 🎸 tocar instrumentos musicais.
 - 📫 Entre em contato comigo: <a href="mailto:thomasRodri@gmail.com">thomasRodri@gmail.com</a>
 <br>
 
