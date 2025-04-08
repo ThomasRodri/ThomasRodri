@@ -1,31 +1,18 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
- 
 <h1><b>Olá, eu sou o </b><a href="https://github.com/ThomasRodri">Thomas Rodrigues</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
- 
 <br>
  
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35">&nbsp;***Sobre mim***
+<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***Sobre mim***
  
-<br><br>
+<img align="right" width=200px alt="Unicorn" src="https://media.tenor.com/FEP47iNJytAAAAAi/mini-impact-miniimpact.gif"/>
  
-<img align="center" width="200px" alt="Unicorn" src="https://media.tenor.com/FEP47iNJytAAAAAi/mini-impact-miniimpact.gif"/>
-<img align="center" width="200px" alt="Unicorn" src="https://media.tenor.com/D_Qr6aA0XEsAAAAi/mini-impact-miniimpact.gif"/>
-<img align="center" width="200px" alt="Unicorn" src="https://media.tenor.com/SFzlh-0COgAAAAAi/mini-impact-miniimpact.gif"/>
- 
-<p>Sou um estudante de **Análise e Desenvolvimento de Sistemas** na FIAP, atualmente no meio do curso. Estou expandindo meus conhecimentos tanto no back-end quanto no front-end. Tenho experiência como desenvolvedor web para o setor de restaurantes e meu objetivo é fortalecer minhas habilidades de desenvolvimento e explorar novas tecnologias. Amo aprender e construir algo novo, criativo e divertido.</p>
- 
-<ul>
-<li>📚 Atualmente estudando ...
-<ul>
-<li>*Java com Spring*</li>
-<li>*React Native*</li>
-</ul>
-</li>
-<li>🚀 Estou animado para participar de novos projetos.</li>
-<li>✔ Fique à vontade para me perguntar qualquer coisa! Gosto de ajudar outras pessoas.</li>
-<li>📫 Entre em contato comigo: <a href="mailto:thomasRodri@gmail.com">thomasRodri@gmail.com</a></li>
-</ul>
- 
+Sou um estudante de **Análise e Desenvolvimento de Sistemas** na FIAP, atualmente no meio do curso. Estou expandindo meus conhecimentos tanto no back-end quanto no front-end. Tenho experiência como desenvolvedor web para o setor de restaurantes e meu objetivo é fortalecer minhas habilidades de desenvolvimento e explorar novas tecnologias. Amo aprender e construir algo novo, criativo e divertido.
+- 📚 Atualmente estudando ...
+  - *Java com Spring*
+  - *React Native*
+- 🚀 Estou animado para participar de novos projetos.
+- ✔ Fique à vontade para me perguntar qualquer coisa! Gosto de ajudar outras pessoas.
+- 📫 Entre em contato comigo: <a href="mailto:thomasRodri@gmail.com">thomasRodri@gmail.com</a>
 <br>
  
 <!-- Troféus do Perfil -->
