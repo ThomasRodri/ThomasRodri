@@ -6,7 +6,7 @@
  
 <img align="right" width=200px alt="Unicorn" src="https://media.tenor.com/P-7v2ur05SIAAAAi/darkrai-pok%C3%A9mon-darkrai.gif"/>
  
-Sou um estudante de **Análise e Desenvolvimento de Sistemas** na FIAP, atualmente no meio do curso. Estou expandindo meus conhecimentos tanto no back-end quanto no front-end. Tenho experiência como desenvolvedor web para o setor de lojas de artigos espotivos e meu objetivo é fortalecer minhas habilidades de desenvolvimento e explorar novas tecnologias. Amo aprender e construir algo novo, criativo e divertido.
+Sou um estudante de **Análise e Desenvolvimento de Sistemas** na FIAP, atualmente no meio do curso. Estou expandindo meus conhecimentos tanto no back-end quanto no front-end. Tenho experiência como desenvolvedor web para o setor de lojas de artigos esportivos e meu objetivo é fortalecer minhas habilidades de desenvolvimento e explorar novas tecnologias. Amo aprender e construir algo novo, criativo e divertido.
 - 📚 Atualmente estudando ...
   - *Oracle sql*
   - *React Native*
