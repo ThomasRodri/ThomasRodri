@@ -4,6 +4,10 @@
 
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***Sobre mim***
 
+<img align="right" width=200px alt="Unicorn" src="https://media.tenor.com/FEP47iNJytAAAAAi/mini-impact-miniimpact.gif"/>
+
+<img align="right" width=200px alt="Unicorn" src="https://media.tenor.com/D_Qr6aA0XEsAAAAi/mini-impact-miniimpact.gif"/>
+
 <img align="right" width=200px alt="Unicorn" src="https://media.tenor.com/SFzlh-0COgAAAAAi/mini-impact-miniimpact.gif"/>
 
 Sou um estudante de **Análise e Desenvolvimento de Sistemas** na FIAP, atualmente no meio do curso. Estou expandindo meus conhecimentos tanto no back-end quanto no front-end. Tenho experiência como desenvolvedor web para o setor de restaurantes e meu objetivo é fortalecer minhas habilidades de desenvolvimento e explorar novas tecnologias. Amo aprender e construir algo novo, criativo e divertido.
